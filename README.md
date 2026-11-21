@@ -4,4 +4,4 @@ Listens through the microphone and classifies animal sounds using a Teachable Ma
 
 **Built with:** HTML, CSS, JavaScript, ml5.js, Google Teachable Machine
 
-> Built in 2022 during a school coding course. Kept here as a record of early work; it has not been updated since.
+> Classwork from a school coding course (2022). I wrote most of the HTML, CSS and JavaScript myself.
