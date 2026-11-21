@@ -4,4 +4,4 @@ Listens through the microphone and classifies animal sounds using a Teachable Ma
 
 **Built with:** HTML, CSS, JavaScript, ml5.js, Google Teachable Machine
 
-> Classwork from the WhiteHat Jr online coding course (2022). I wrote most of the HTML, CSS and JavaScript myself.
+> Classwork from a third-party online coding course (2022). I wrote most of the HTML, CSS and JavaScript myself.
