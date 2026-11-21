@@ -1,6 +1,6 @@
 # Animal Sound Classifier
 
-Listens through the microphone and identifies animal sounds using a Teachable Machine audio model, then shows the matching animal image.
+Listens through the microphone and classifies animal sounds using a Teachable Machine audio model. The classification results are printed to the browser console; the on-page display was not finished.
 
 **Built with:** HTML, CSS, JavaScript, ml5.js, Google Teachable Machine
 
